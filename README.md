@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ShrlJamil/ShrlJamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Badges / Tech Stack -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Hyprland-55E6C1?style=for-the-badge&logo=hyprland&logoColor=black" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+</p>
