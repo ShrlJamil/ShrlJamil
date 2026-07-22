@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Wok
+# Hi there 👋
 
-> Informatics Student • Fullstack Web Developer • Linux Enthusiast • Video Editor
+> Fullstack Freelance Web Developer • Linux Enthusiast • Video Editor
 
 I enjoy building useful software, customizing Linux environments, and exploring new technologies. I love creating modern web applications, improving development workflows, and continuously learning about machine learning and software engineering.
 
@@ -8,7 +8,6 @@ I enjoy building useful software, customizing Linux environments, and exploring 
 
 ## 🚀 About Me
 
-- 🎓 Informatics Student
 - 💻 Freelance Fullstack Web Developer
 - 🐧 Arch Linux + Hyprland user
 - 🎬 Video Editor & Cinematography Enthusiast
@@ -97,15 +96,3 @@ Browser   : Firefox
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-## 📫 Connect with Me
-
-- GitHub : https://github.com/YOUR_USERNAME
-- LinkedIn : https://linkedin.com/in/YOUR_USERNAME
-- Portfolio : https://YOUR_DOMAIN
-
----
-
-> *"Build. Learn. Improve. Repeat."*
