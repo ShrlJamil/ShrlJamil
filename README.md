@@ -58,7 +58,7 @@ I enjoy building useful software, customizing Linux environments, and exploring 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+<!-- ---
 
 ## 📈 GitHub Stats
 
@@ -66,7 +66,7 @@ I enjoy building useful software, customizing Linux environments, and exploring 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShrlJamil&show_icons=true&theme=tokyonight&hide_border=true"/>
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrlJamil&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
