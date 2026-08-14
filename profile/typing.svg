@@ -19,16 +19,16 @@
     }
     @keyframes w1 {
       0%   { width: 0 }
-      30%  { width: 0; animation-timing-function: steps(22) }
-      52%  { width: 237.6px; animation-timing-function: linear }
-      60%  { width: 237.6px }
+      30%  { width: 0; animation-timing-function: steps(14) }
+      44%  { width: 151.2px; animation-timing-function: linear }
+      60%  { width: 151.2px }
       100% { width: 0 }
     }
     @keyframes w2 {
       0%   { width: 0 }
-      60%  { width: 0; animation-timing-function: steps(20) }
-      80%  { width: 216px; animation-timing-function: linear }
-      90%  { width: 216px }
+      60%  { width: 0; animation-timing-function: steps(26) }
+      86%  { width: 280.8px; animation-timing-function: linear }
+      90%  { width: 280.8px }
       100% { width: 0 }
     }
 
@@ -58,8 +58,8 @@
 
   <defs>
     <clipPath id="c0"><rect class="w0" x="0" y="0" width="248.4" height="34"/></clipPath>
-    <clipPath id="c1"><rect class="w1" x="0" y="0" width="237.6" height="34"/></clipPath>
-    <clipPath id="c2"><rect class="w2" x="0" y="0" width="216" height="34"/></clipPath>
+    <clipPath id="c1"><rect class="w1" x="0" y="0" width="151.2" height="34"/></clipPath>
+    <clipPath id="c2"><rect class="w2" x="0" y="0" width="280.8" height="34"/></clipPath>
   </defs>
 
   <g class="g0">
@@ -67,11 +67,11 @@
     <rect class="cur" x="252.4" y="5" width="2.5" height="22"/>
   </g>
   <g class="g1">
-    <text class="t" x="0" y="24" clip-path="url(#c1)">Arch Linux Enthusiast</text>
-    <rect class="cur" x="241.6" y="5" width="2.5" height="22"/>
+    <text class="t" x="0" y="24" clip-path="url(#c1)">Hyprland Ricer</text>
+    <rect class="cur" x="155.2" y="5" width="2.5" height="22"/>
   </g>
   <g class="g2">
-    <text class="t" x="0" y="24" clip-path="url(#c2)">Flutter &amp; ML Learner</text>
-    <rect class="cur" x="220" y="5" width="2.5" height="22"/>
+    <text class="t" x="0" y="24" clip-path="url(#c2)">Always ready to learn more</text>
+    <rect class="cur" x="284.8" y="5" width="2.5" height="22"/>
   </g>
 </svg>
