@@ -54,6 +54,18 @@ I enjoy building useful software, customizing Linux environments, and exploring 
 
 <br>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+    <img alt="github-snake" src="./profile/github-snake.svg" />
+  </picture>
+</p>
+
+<br>
+
 ## 💻 Development Environment
 
 ```text
