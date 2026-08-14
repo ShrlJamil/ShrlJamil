@@ -49,7 +49,7 @@ I enjoy building useful software, customizing Linux environments, and exploring 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShrlJamil&theme=tokyonight&hide_border=true"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak"/>
 </p>
 
 <br>
