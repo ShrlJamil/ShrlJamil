@@ -58,9 +58,9 @@ I enjoy building useful software, customizing Linux environments, and exploring 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
-    <img alt="github-snake" src="./profile/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg?v=1" />
+    <img alt="github-snake" src="./profile/github-snake.svg?v=1" />
   </picture>
 </p>
 
