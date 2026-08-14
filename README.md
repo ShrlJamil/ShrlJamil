@@ -1,5 +1,9 @@
 # Hi there, 👋
 
+<p align="center">
+  <img src="./profile/typing.svg?v=1" alt="Typing SVG"/>
+</p>
+
 I enjoy building useful software, customizing Linux environments, and exploring new technologies — from modern web apps to machine learning experiments.
 
 <br>
