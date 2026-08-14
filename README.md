@@ -49,7 +49,7 @@ I enjoy building useful software, customizing Linux environments, and exploring 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="./profile/streak.svg?v=1" alt="GitHub Streak"/>
+  <img src="./profile/streak.svg?v=2" alt="GitHub Streak"/>
 </p>
 
 <br>
