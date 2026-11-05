@@ -57,7 +57,7 @@ I enjoy building useful software, customizing Linux environments, and exploring 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShrlJamil&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="./profile/stats.svg?v=1" alt="GitHub Stats"/>
 </p>
 
 ## 🈷️ Most Used Languages

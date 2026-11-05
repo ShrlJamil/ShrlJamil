@@ -1,0 +1,41 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    - cron: "10 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/stats.yml"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: gruvbox
+          AUTO_PUSH: false
+
+      - name: Save stats card
+        run: |
+          cp profile-summary-card-output/gruvbox/3-stats.svg profile/stats.svg
+          rm -rf profile-summary-card-output
+
+      - name: Commit stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg
+          git commit -m "Update GitHub stats" || exit 0
+          git pull --rebase
+          git push
