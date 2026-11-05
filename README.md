@@ -5,7 +5,7 @@ I enjoy building useful software, customizing Linux environments, and exploring 
 ## About Me
 
 - Freelance Software Developer
-- [sahruljamil.com](https://sahruljamil.com)
+- [contact@sahruljamil.com](mailto:contact@sahruljamil.com)
 - Arch Linux + Hyprland user
 - Video editing & cinematography enthusiast
 
@@ -45,16 +45,11 @@ I enjoy building useful software, customizing Linux environments, and exploring 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
 
-## GitHub Streak
-
-<p align="center">
-  <img src="./profile/streak.svg?v=2" alt="GitHub Streak"/>
-</p>
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg?v=1" alt="GitHub Stats"/>
+  <img src="./profile/streak.svg?v=4" alt="GitHub Streak" width="58%"/>
+  <img src="./profile/stats.svg?v=3" alt="GitHub Stats" width="39%"/>
 </p>
 
 ## Most Used Languages
@@ -62,14 +57,3 @@ I enjoy building useful software, customizing Linux environments, and exploring 
 <p align="center">
   <img src="./profile/languages.svg?v=2" alt="Most Used Languages"/>
 </p>
-
-## Development Environment
-
-```text
-OS       Arch Linux
-WM       Hyprland
-Shell    fish
-Editor   VS Code & Neovim
-Terminal Kitty
-Browser  Firefox
-```

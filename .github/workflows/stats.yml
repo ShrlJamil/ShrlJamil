@@ -23,13 +23,21 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: gruvbox
+          THEME: github_dark
           AUTO_PUSH: false
 
       - name: Save stats card
         run: |
-          cp profile-summary-card-output/gruvbox/3-stats.svg profile/stats.svg
+          cp profile-summary-card-output/github_dark/3-stats.svg profile/stats.svg
           rm -rf profile-summary-card-output
+          # Match the black-ice palette used by the streak card
+          sed -i \
+            -e 's/#0d1117/#151515/g' \
+            -e 's/#0366d6/#00E7FF/g' \
+            -e 's/#77909c/#FFFFFF/g' \
+            -e 's/#8b949e/#00E7FF/g' \
+            -e 's/#2e343b/#151515/g' \
+            profile/stats.svg
 
       - name: Commit stats
         run: |
