@@ -1,19 +1,15 @@
 # Hi there, 👋
 
-<p align="center">
-  <img src="./profile/typing.svg?v=2" alt="Typing SVG"/>
-</p>
-
-I enjoy building useful software, customizing Linux environments, and exploring new technologies — from modern web apps to machine learning experiments.
+I enjoy building useful software, customizing Linux environments, and exploring new technologies.
 
 <br>
 
 ## 🚀 About Me
 
-- 💻 Freelance Fullstack Web Developer
+- 💻 Freelance Software Developer
+- 🌐 [sahruljamil.com](https://sahruljamil.com)
 - 🐧 Arch Linux + Hyprland user
 - 🎬 Video editing & cinematography enthusiast
-- 🌱 Currently learning **Flutter** and **Machine Learning**
 
 <br>
 
